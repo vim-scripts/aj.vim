@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=478
+
+This is my first attempt to create a syntax file :).
+I am working with AspectJ lateley and decided to create a syntax file for the language.
+For now, highliting takes care of all AspectJ keywords.
+
+All AspectJ code should be inside a file with extension .aj
+
+To learn more about AspectJ: http://aspectj.org
